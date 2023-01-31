@@ -2,6 +2,8 @@
 
 ## Branch creating
 
+* *git checkout branch_name* - команда, осуществляющая переход в ветку branch_name
+
 * *git branch* - команда, отражающая список существующих веток
 
 ## Branch merging
